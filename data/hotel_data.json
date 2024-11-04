@@ -1,0 +1,210 @@
+[
+  {
+    "state": "Georgia",
+    "price": "Not Available"
+  },
+  {
+    "state": "Nevada",
+    "price": "Not Available"
+  },
+  {
+    "state": "Texas",
+    "price": "Not Available"
+  },
+  {
+    "state": "Maryland",
+    "price": "Not Available"
+  },
+  {
+    "state": "California",
+    "price": "Not Available"
+  },
+  {
+    "state": "Delaware",
+    "price": "Not Available"
+  },
+  {
+    "state": "Florida",
+    "lowestPrice": 28,
+    "meanPrice": "44.35",
+    "medianPrice": "45.00"
+  },
+  {
+    "state": "Virginia",
+    "price": "Not Available"
+  },
+  {
+    "state": "Colorado",
+    "price": "Not Available"
+  },
+  {
+    "state": "Hawaii",
+    "price": "Not Available"
+  },
+  {
+    "state": "North Carolina",
+    "price": "Not Available"
+  },
+  {
+    "state": "Arizona",
+    "price": "Not Available"
+  },
+  {
+    "state": "New Jersey",
+    "price": "Not Available"
+  },
+  {
+    "state": "Utah",
+    "price": "Not Available"
+  },
+  {
+    "state": "Washington",
+    "price": "Not Available"
+  },
+  {
+    "state": "Connecticut",
+    "price": "Not Available"
+  },
+  {
+    "state": "South Carolina",
+    "price": "Not Available"
+  },
+  {
+    "state": "Illinois",
+    "price": "Not Available"
+  },
+  {
+    "state": "Alaska",
+    "price": "Not Available"
+  },
+  {
+    "state": "Rhode Island",
+    "price": "Not Available"
+  },
+  {
+    "state": "Massachusetts",
+    "price": "Not Available"
+  },
+  {
+    "state": "Pennsylvania",
+    "lowestPrice": 26,
+    "meanPrice": "42.35",
+    "medianPrice": "41.50"
+  },
+  {
+    "state": "New York",
+    "price": "Not Available"
+  },
+  {
+    "state": "Oregon",
+    "price": "Not Available"
+  },
+  {
+    "state": "Nebraska",
+    "price": "Not Available"
+  },
+  {
+    "state": "Idaho",
+    "price": "Not Available"
+  },
+  {
+    "state": "Louisiana",
+    "price": "Not Available"
+  },
+  {
+    "state": "Indiana",
+    "price": "Not Available"
+  },
+  {
+    "state": "Minnesota",
+    "price": "Not Available"
+  },
+  {
+    "state": "Tennessee",
+    "price": "Not Available"
+  },
+  {
+    "state": "New Mexico",
+    "price": "Not Available"
+  },
+  {
+    "state": "Wisconsin",
+    "price": "Not Available"
+  },
+  {
+    "state": "New Hampshire",
+    "price": "Not Available"
+  },
+  {
+    "state": "Oklahoma",
+    "price": "Not Available"
+  },
+  {
+    "state": "Missouri",
+    "price": "Not Available"
+  },
+  {
+    "state": "Alabama",
+    "price": "Not Available"
+  },
+  {
+    "state": "Ohio",
+    "price": "Not Available"
+  },
+  {
+    "state": "Mississippi",
+    "lowestPrice": 33,
+    "meanPrice": "45.35",
+    "medianPrice": "46.00"
+  },
+  {
+    "state": "Kansas",
+    "price": "Not Available"
+  },
+  {
+    "state": "Michigan",
+    "lowestPrice": 29,
+    "meanPrice": "44.85",
+    "medianPrice": "44.00"
+  },
+  {
+    "state": "Kentucky",
+    "price": "Not Available"
+  },
+  {
+    "state": "Arkansas",
+    "price": "Not Available"
+  },
+  {
+    "state": "Maine",
+    "price": "Not Available"
+  },
+  {
+    "state": "Montana",
+    "price": "Not Available"
+  },
+  {
+    "state": "Iowa",
+    "price": "Not Available"
+  },
+  {
+    "state": "North Dakota",
+    "price": "Not Available"
+  },
+  {
+    "state": "Vermont",
+    "price": "Not Available"
+  },
+  {
+    "state": "South Dakota",
+    "price": "Not Available"
+  },
+  {
+    "state": "Wyoming",
+    "price": "Not Available"
+  },
+  {
+    "state": "West Virginia",
+    "price": "Not Available"
+  }
+]
