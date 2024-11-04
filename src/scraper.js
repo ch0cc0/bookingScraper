@@ -78,8 +78,8 @@ function findMedian(a,n)
     const hotelData = [];
 
     for (const state of states) {
-        const url = `https://www.booking.com/searchresults.html?ss=${state}&checkin=2024-12-01&checkout=2024-12-02&no_rooms=1&group_adults=1&group_children=0&shw_aparth=0&nflt=ht_id%3D204&order=price`;
-        console.log(`Go to URL:\n${url}`);
+        const url = `https://www.booking.com/searchresults.html?ss=${state}%2C+United+States&checkin=2024-12-01&checkout=2024-12-02&no_rooms=1&group_adults=1&group_children=0&shw_aparth=0&nflt=ht_id%3D204&order=price`;
+        // console.log(`Go to URL:\n${url}`);
         
         await page.goto(url, { timeout: 60000 }); // Increase the timeout to 60 seconds
 
@@ -103,10 +103,10 @@ function findMedian(a,n)
             for (let i = 0; i < lengthOfPrices; i++)
                 sum += prices[i];
         
-            let meanPrice = (sum / lengthOfPrices).toFixed(2);;
-            let medianPrice = findMedian(prices, lengthOfPrices).toFixed(2);;
+            let meanPrice = (sum / lengthOfPrices).toPrecision(2);;
+            let medianPrice = findMedian(prices, lengthOfPrices).toPrecision(2);;
 
-            hotelData.push({ state, lowestPrice, meanPrice,  medianPrice});
+            hotelData.push({ state, lowestPrice, meanPrice, medianPrice});
 
         } catch (error) {
             await page.screenshot({ path: `../img/screenshot-${state}.png` });
